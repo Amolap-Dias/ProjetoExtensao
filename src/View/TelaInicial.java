@@ -18,7 +18,7 @@ public void menuTelaInicial(){
     System.out.println("______________________________ Tela Inicial ______________________________");
     System.out.println("\n Digite um número para cada opção \n"+
     "\n 1- Cadastrar um novo morador "+
-    "\n 2- Cadastrar outro colaborador (administrador) "+
+    "\n 2- Cadastrar outro colaborador "+
     "\n 3- Pesquisar cadastro de colaborador "+
     "\n 4- Pesquisar cadastro de morador "+
     "\n 5- Atualizar cadastro de colaborador "+

@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="SistemaPortaria">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/SistemaPortaria.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
