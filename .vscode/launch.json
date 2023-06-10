@@ -1,0 +1,38 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "View.Principal",
+            "projectName": "SistemaPortaria_97dda3b1"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "C:.Users.Paloma.Desktop.SistemaPortaria.src.View.Principal",
+            "projectName": "SistemaPortaria_97dda3b1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (launch) - Current file",
+            "request": "launch",
+            "mainClass": "C:.Users.Paloma.Desktop.SistemaPortaria.src.View.Principal",
+            "projectName": "SistemaPortaria"
+        },
+        {
+            "type": "java",
+            "name": "Debug (launch) - Current File",
+            "request": "launch",
+            "mainClass": "C:.Users.Paloma.Desktop.SistemaPortaria.src.View.Principal"
+        },
+        {
+            "vmArgs": "--enable-preview"
+        }
+    ]
+}
